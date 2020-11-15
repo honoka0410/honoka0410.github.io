@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+    text-align: center;
+    -webkit-text-stroke: 3px aliceblue;
+    text-stroke: 1px aliceblue;
+    background: darkslateblue;
+}
+#gnav{
+    background-color: gray;
+    }
+    
+    #gnav ul{
+    overflow: hidden;
+    }
+    
+    #gnav li{
+    float: left;
+    width: 200px;
+    }
